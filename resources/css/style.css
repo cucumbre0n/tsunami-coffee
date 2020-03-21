@@ -33,6 +33,7 @@ nav {
 ul {
   list-style: none;
   margin: 0;
+  padding: 0.75rem 1.25rem;
 }
 
 li {
@@ -70,7 +71,7 @@ li {
 }
 
 .rating h1 {
-
+  font-size: 40px;
 }
 
 .gallery img {
